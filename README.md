@@ -1,1 +1,1 @@
-# test_me
+print('123')
